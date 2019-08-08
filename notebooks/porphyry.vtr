@@ -4,13 +4,13 @@
     <Piece Extent="0 60 0 36 0 19"                                                    >
       <PointData>
       </PointData>
-      <CellData Scalars="rock">
+      <CellData>
         <DataArray type="Float64" Name="rock" format="appended" RangeMin="0"                    RangeMax="3"                    offset="0"                   />
       </CellData>
       <Coordinates>
-        <DataArray type="Float64" Name="Array 0x7fb36dc8e410" format="appended" RangeMin=""                     RangeMax=""                     offset="2448"                />
-        <DataArray type="Float64" Name="Array 0x7fb36def0ca0" format="appended" RangeMin=""                     RangeMax=""                     offset="2800"                />
-        <DataArray type="Float64" Name="Array 0x7fb36dc8ce30" format="appended" RangeMin=""                     RangeMax=""                     offset="3088"                />
+        <DataArray type="Float64" Name="Array 0x7f99f5a5a490" format="appended" RangeMin=""                     RangeMax=""                     offset="2448"                />
+        <DataArray type="Float64" Name="Array 0x7f99f5a57290" format="appended" RangeMin=""                     RangeMax=""                     offset="2800"                />
+        <DataArray type="Float64" Name="Array 0x7f99f5a34760" format="appended" RangeMin=""                     RangeMax=""                     offset="3088"                />
       </Coordinates>
     </Piece>
   </RectilinearGrid>
