@@ -2,14 +2,14 @@
 
 # Inversions of time-domain spectral induced polarization data using s1retched exponential
 
-[![Build Status](https://travis-ci.org/simpeg-research/heagy-2018-emcyl.svg?branch=master)](https://travis-ci.org/simpeg-research/heagy-2018-emcyl)
-[![Binder](https://mybinder.org/badge.svg)](https://mybinder.org/v2/gh/simpeg-research/heagy-2018-emcyl/master?filepath=index.ipynb)
-[![Azure Notebooks](https://notebooks.azure.com/launch.png)](https://notebooks.azure.com/import/gh/simpeg-research/heagy-2018-emcyl)
+[![Build Status](https://travis-ci.org/simpeg-research/kang-2018-spectral-inducedpolarization.svg?branch=master)](https://travis-ci.org/simpeg-research/kang-2018-spectral-inducedpolarization)
+[![Binder](https://mybinder.org/badge.svg)](https://mybinder.org/v2/gh/simpeg-research/kang-2018-spectral-inducedpolarization/master?filepath=index.ipynb)
+[![Azure Notebooks](https://notebooks.azure.com/launch.png)](https://notebooks.azure.com/import/gh/simpeg-research/kang-2018-spectral-inducedpolarization)
 [![DOI](https://zenodo.org/badge/127807359.svg)](https://zenodo.org/badge/latestdoi/127807359)
-[![License](https://img.shields.io/github/license/simpeg-research/heagy-2018-emcyl.svg)](https://github.com/simpeg-research/heagy-2018-emcyl/blob/master/LICENSE)
+[![License](https://img.shields.io/github/license/simpeg-research/kang-2018-spectral-inducedpolarization.svg)](https://github.com/simpeg-research/kang-2018-spectral-inducedpolarization/blob/master/LICENSE)
 [![SimPEG](https://img.shields.io/badge/powered%20by-SimPEG-blue.svg)](http://simpeg.xyz)
 
-<img src="figures/kaufman_zones.png" width=40% align="middle">
+<img src="notebooks/figures/inversion_sip_3d.png" width=40% align="middle">
 
 ## Overview
 
@@ -51,7 +51,7 @@ This repository contains the notebooks used to generate the examples shown in "M
 ## Launching the notebooks
 
 ### Online
-The notebooks can be run online through [mybinder](https://mybinder.org/v2/gh/simpeg-research/heagy-2018-emcyl/master?filepath=index.ipynb) or [azure notebooks](https://notebooks.azure.com/import/gh/simpeg-research/heagy-2018-emcyl).
+The notebooks can be run online through [mybinder](https://mybinder.org/v2/gh/simpeg-research/kang-2018-spectral-inducedpolarization/master?filepath=index.ipynb) or [azure notebooks](https://notebooks.azure.com/import/gh/simpeg-research/kang-2018-spectral-inducedpolarization).
 
 ### Locally
 To run them locally, you will need to have python installed, preferably through [anaconda](https://www.anaconda.com/download/).
@@ -59,13 +59,13 @@ To run them locally, you will need to have python installed, preferably through 
 You can then clone this repository. From a command line, run
 
 ```
-git clone https://github.com/simpeg-research/heagy-2018-emcyl.git
+git clone https://github.com/simpeg-research/kang-2018-spectral-inducedpolarization.git
 ```
 
-Then `cd` into the `heagy-2018-emcyl`
+Then `cd` into the `kang-2018-spectral-inducedpolarization`
 
 ```
-cd heagy-2018-emcyl
+cd kang-2018-spectral-inducedpolarization
 ```
 
 To setup your software environment, we recommend you use the provided conda environment
