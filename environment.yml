@@ -12,4 +12,4 @@ dependencies:
     - pymatsolver
     - geoana
     - git+https://github.com/simpeg/simpeg.git@spectral-ip-addition
-    - git+https://github.com/simpeg/simpegEM1D.git@master
+    - git+https://github.com/simpeg/simpegEM1D.git@global_dualmoment
