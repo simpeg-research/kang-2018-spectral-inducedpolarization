@@ -59,7 +59,7 @@ To setup your software environment, we recommend you use the provided conda envi
 
 ```
 conda env create -f environment.yml
-source activate emcyl-environment
+source activate sip-environment
 ```
 
 alternatively, you can install dependencies through pypi
@@ -94,7 +94,7 @@ number = {},
 pages = {},
 title = {{Inversions of time-domain spectral induced polarization data using stretched exponential.}},
 volume = {},
-year = {}
+year = {2019}
 }
 ```
 
