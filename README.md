@@ -3,9 +3,8 @@
 # Inversions of time-domain spectral induced polarization data using stretched exponential
 
 [![Build Status](https://travis-ci.org/simpeg-research/kang-2018-spectral-inducedpolarization.svg?branch=master)](https://travis-ci.org/simpeg-research/kang-2018-spectral-inducedpolarization)
-[![Binder](https://mybinder.org/badge.svg)](https://mybinder.org/v2/gh/simpeg-research/kang-2018-spectral-inducedpolarization/master?filepath=index.ipynb)
-[![Azure Notebooks](https://notebooks.azure.com/launch.png)](https://notebooks.azure.com/import/gh/simpeg-research/kang-2018-spectral-inducedpolarization)
-[![DOI](https://zenodo.org/badge/127807359.svg)](https://zenodo.org/badge/latestdoi/127807359)
+[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/simpeg-research/kang-2018-spectral-inducedpolarization/master?filepath=notebooks%2Findex.ipynb)
+<!-- [![DOI](https://zenodo.org/badge/127807359.svg)](https://zenodo.org/badge/latestdoi/127807359) -->
 [![License](https://img.shields.io/github/license/simpeg-research/kang-2018-spectral-inducedpolarization.svg)](https://github.com/simpeg-research/kang-2018-spectral-inducedpolarization/blob/master/LICENSE)
 [![SimPEG](https://img.shields.io/badge/powered%20by-SimPEG-blue.svg)](http://simpeg.xyz)
 
@@ -38,7 +37,7 @@ This repository contains the notebooks used to generate the examples shown in "I
 ## Launching the notebooks
 
 ### Online
-The notebooks can be run online through [mybinder](https://mybinder.org/v2/gh/simpeg-research/kang-2018-spectral-inducedpolarization/master?filepath=index.ipynb) or [azure notebooks](https://notebooks.azure.com/import/gh/simpeg-research/kang-2018-spectral-inducedpolarization).
+The notebooks can be run online through [mybinder](https://mybinder.org/v2/gh/simpeg-research/kang-2018-spectral-inducedpolarization/master?filepath=notebooks%2Findex.ipynb)
 
 ### Locally
 To run them locally, you will need to have python installed, preferably through [anaconda](https://www.anaconda.com/download/).
