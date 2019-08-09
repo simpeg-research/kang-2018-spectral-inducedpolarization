@@ -8,6 +8,10 @@ matrix:
 
 sudo: false
 
+addons:
+  apt_packages:
+    - gfortran
+
 env:
   matrix:
     - TEST=tests/test_notebooks.py
