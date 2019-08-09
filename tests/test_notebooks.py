@@ -7,7 +7,7 @@ NBDIR = os.path.sep.join(
     os.path.abspath(__file__).split(os.path.sep)[:-2] + ['notebooks']
 )
 
-IGNORE = ["6-1-SIP_inversion_3D.ipynb"]
+IGNORE = ["6-1-SIP_inversion_3D.ipynb", "5-DC_inversion_3D.ipynb", "8-IP_inversion_3D.ipynb"]
 
 n_ignore = 3  # so we don't run over-time on travis, randomly ignore 3 notebooks
 Test = testipynb.TestNotebooks(directory=NBDIR, timeout=2800)
