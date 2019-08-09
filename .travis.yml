@@ -30,4 +30,4 @@ install:
   - pip install -r requirements_dev.txt
 
 script:
-  - travis_wait 10 nosetests $TEST -v -s
+  - travis_wait 20 nosetests $TEST -v -s
