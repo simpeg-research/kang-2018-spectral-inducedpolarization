@@ -25,7 +25,7 @@ before_install:
 
 install:
   - conda env create -f environment.yml
-  - source activate emcyl-environment
+  - source activate sip-environment
   - export MPLBACKEND="agg"
   - pip install -r requirements_dev.txt
 
