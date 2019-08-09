@@ -3,6 +3,7 @@ name: sip-environment
 channels:
   - conda-forge
   - defaults
+
 dependencies:
   - numpy
   - scipy
