@@ -12,7 +12,5 @@ dependencies:
   - h5py
   - pip:
     - pymatsolver
-    - discretize
-    - geoana
-    - git+https://github.com/simpeg/simpeg.git@spectral-ip-addition
     - git+https://github.com/simpeg/simpegEM1D.git@global_dualmoment
+    - git+https://github.com/simpeg/simpeg.git@spectral-ip-addition
