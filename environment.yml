@@ -8,6 +8,7 @@ dependencies:
   - scipy
   - matplotlib
   - mkl
+  - fortran-magic
   # - gcc
   - pip:
     - pymatsolver
