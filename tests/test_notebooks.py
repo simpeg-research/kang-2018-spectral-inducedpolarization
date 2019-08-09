@@ -4,7 +4,7 @@ import testipynb
 import unittest
 
 NBDIR = os.path.sep.join(
-    os.path.abspath(__file__).split(os.path.sep)[:-2] + ['notebooks/dummy']
+    os.path.abspath(__file__).split(os.path.sep)[:-2] + ['notebooks']
 )
 
 IGNORE = ["6-1-SIP_inversion_3D.ipynb", "5-DC_inversion_3D.ipynb", "8-IP_inversion_3D.ipynb", "9-Linearization-tests.ipynb", "7-Generate-porphyry-model-and-data.ipynb"]
