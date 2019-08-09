@@ -1,0 +1,17 @@
+name: emcyl-environment
+
+channels:
+  - conda-forge
+  - defaults
+dependencies:
+  - python=3.6
+  - numpy
+  - scipy
+  - matplotlib
+  - ipywidgets
+  - mkl
+  - pip:
+    - pymatsolver
+    - geoana
+    - SimPEG
+    - git+https://github.com/simpeg-research/casingSimulations.git

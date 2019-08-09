@@ -78,7 +78,7 @@ Jupyter will then launch in your web-browser.
 
 Each cell of code can be run with `shift + enter` or you can run the entire notebook by selecting `cell`, `Run All` in the toolbar.
 
-<img src="figures/cell_run_all.png" width=80% align="middle">
+<img src="notebooks/figures/cell_run_all.png" width=80% align="middle">
 
 For more information on running Jupyter notebooks, see the [Jupyter Documentation](https://jupyter.readthedocs.io/en/latest/)
 
