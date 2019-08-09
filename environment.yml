@@ -3,7 +3,6 @@ name: sip-environment
 channels:
   - conda-forge
   - defaults
-
 dependencies:
   - numpy
   - scipy
@@ -13,5 +12,4 @@ dependencies:
   - pip:
     - pymatsolver
     - geoana
-    - git+https://github.com/simpeg/simpegEM1D.git@global_dualmoment
     - git+https://github.com/simpeg/simpeg.git@spectral-ip-addition
