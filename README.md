@@ -104,7 +104,3 @@ If you run into problems or bugs, please let us know by [creating an issue](http
 ## License
 
 These notebooks are licensed under the [MIT License](/LICENSE) which allows academic and commercial re-use and adaptation of this work.
-
-## Version
-
-Version: 0.0.1
