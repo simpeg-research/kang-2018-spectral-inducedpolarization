@@ -3,14 +3,13 @@ name: sip-environment
 channels:
   - conda-forge
   - defaults
+
 dependencies:
   - numpy
   - scipy
   - matplotlib
   - mkl
-  - fortran-magic
-  # - gcc
+  - h5py
   - pip:
     - pymatsolver
-    # - git+https://github.com/simpeg/simpegEM1D.git@master
-
+    - git+https://github.com/simpeg/simpeg.git@spectral-ip-addition
