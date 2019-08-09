@@ -6,6 +6,5 @@ mkl
 pymatsolver
 geoana
 h5py
-discretize
 -e git+https://github.com/simpeg/simpegEM1D.git@master
 -e git+https://github.com/simpeg/simpeg.git@spectral-ip-addition
