@@ -7,6 +7,7 @@
 <!-- [![DOI](https://zenodo.org/badge/127807359.svg)](https://zenodo.org/badge/latestdoi/127807359) -->
 [![License](https://img.shields.io/github/license/simpeg-research/kang-2018-spectral-inducedpolarization.svg)](https://github.com/simpeg-research/kang-2018-spectral-inducedpolarization/blob/master/LICENSE)
 [![SimPEG](https://img.shields.io/badge/powered%20by-SimPEG-blue.svg)](http://simpeg.xyz)
+[![DOI](https://zenodo.org/badge/143895841.svg)](https://zenodo.org/badge/latestdoi/143895841)
 
 <img src="notebooks/figures/inversion_sip_3d.png" width=60% align="middle">
 
